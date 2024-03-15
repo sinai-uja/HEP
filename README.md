@@ -10,6 +10,9 @@ Este corpus está orientado al estudio de clasificadores de texto multi-etiqueta
 
 **Actualizado el 23.04.2007**: Gracias a Ioannis Katakis, de la Aristotle University of Thessaloniki, (Grecia) por corregir algunos problemas en el XML proporcionado. 
 
+## Disponibilidad
+El corpus HEP está disponible en: https://sinai.ujaen.es/investigacion/recursos/coleccion-hep
+
 ## Como citar
 Este corpus ha sido preparado por Arturo Montejo Ráez, con metadatos facilitados por Jens Vigen y la ayuda del CDS Team. Para referencias usar:
 
